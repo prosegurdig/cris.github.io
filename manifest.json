@@ -1,0 +1,30 @@
+{
+  "name": "María Cristina Arteaga | Prosegur Tecnología",
+  "short_name": "Cristina Arteaga",
+  "description": "Comercial Senior · CCTV, Control de Accesos, Analítica de Video, Integración de Plataformas",
+  "start_url": "/cris.github.io/",
+  "scope": "/cris.github.io/",
+  "display": "standalone",
+  "background_color": "#111111",
+  "theme_color": "#F7C700",
+  "orientation": "portrait-primary",
+  "lang": "es",
+  "categories": ["business"],
+  "icons": [
+    { "src": "icon-120.png", "sizes": "120x120", "type": "image/png" },
+    { "src": "icon-152.png", "sizes": "152x152", "type": "image/png" },
+    { "src": "icon-167.png", "sizes": "167x167", "type": "image/png" },
+    { "src": "icon-180.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ],
+  "screenshots": [
+    {
+      "src": "screenshot.png",
+      "sizes": "390x844",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Tarjeta digital de María Cristina Arteaga"
+    }
+  ]
+}
